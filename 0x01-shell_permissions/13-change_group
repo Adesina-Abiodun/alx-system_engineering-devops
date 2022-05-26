@@ -1,3 +1,2 @@
 #!/bin/bash
- -e #!/bin/bash
 chgrp school ./hello
