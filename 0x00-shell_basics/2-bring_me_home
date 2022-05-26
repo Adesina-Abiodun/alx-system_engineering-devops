@@ -1,1 +1,2 @@
-echo -e #!/bin/bash\ncd ~
+#!/bin/bash
+cd ~
